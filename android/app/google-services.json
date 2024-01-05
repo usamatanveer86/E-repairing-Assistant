@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718209437346",
+    "project_id": "e-rapairing-app",
+    "storage_bucket": "e-rapairing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718209437346:android:bc3d438819e3898a5951fb",
+        "android_client_info": {
+          "package_name": "com.ereparingapp.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718209437346-h9oelpj88c02dnbkfg58jv2ke59bauog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGpTIvFiTsU0HpTzzMlSt7f-Idebqdac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718209437346-h9oelpj88c02dnbkfg58jv2ke59bauog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
